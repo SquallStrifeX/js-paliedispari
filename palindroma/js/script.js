@@ -20,3 +20,5 @@ if(risultato == true){
 else{
     console.log("La parola non è palindroma")
 }
+
+
